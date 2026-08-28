@@ -1,6 +1,5 @@
 """
-MODULE 3: Variables and Interactive Programs
-All 6 exercises + Project 1 in one file
+MODULE 3
 """
 
 import math
@@ -55,23 +54,18 @@ def exercise_5_weight_converter():
     """Exercise 5: Medieval weight converter"""
     print("\n=== EXERCISE 5: Medieval Weight Converter ===")
     
-    # Conversion factors
     LOTS_PER_GRAM = 13.3
     LOTS_PER_POUND = 32
     POUNDS_PER_TALENT = 20
     
-    # Ask for user input
     talents = float(input("Enter talents: "))
     pounds = float(input("Enter pounds: "))
     lots = float(input("Enter lots: "))
     
-    # Convert everything to lots
     total_lots = (talents * POUNDS_PER_TALENT * LOTS_PER_POUND) + (pounds * LOTS_PER_POUND) + lots
     
-    # Convert lots to grams
     total_grams = total_lots * LOTS_PER_GRAM
     
-    # Convert grams to kilograms and remaining grams
     kilograms = int(total_grams // 1000)
     remaining_grams = total_grams % 1000
     
@@ -83,12 +77,10 @@ def exercise_6_combination_lock():
     """Exercise 6: Random combination lock code generator"""
     print("\n=== EXERCISE 6: Random Combination Lock Generator ===")
     
-    # Generate 3-digit code (0-9)
     code_3digit = ""
     for i in range(3):
         code_3digit += str(random.randint(0, 9))
-    
-    # Generate 4-digit code (1-6)
+
     code_4digit = ""
     for i in range(4):
         code_4digit += str(random.randint(1, 6))
