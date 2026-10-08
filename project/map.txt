@@ -1,0 +1,7 @@
+                     OLD MAP OF THE FOREST
+
+     [old cabin] ------- [hidden trail] -----------.
+          |                                         \
+    [forest path] -- [dark cave] -- [cave tunnel] ---> [RANGER STATION]
+          |                                         /
+     [river bank] ------ [waterfall cliff] --------'

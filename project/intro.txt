@@ -1,0 +1,15 @@
+==========================================================
+                  DARK FOREST ADVENTURE
+==========================================================
+
+You went hiking in the big forest, but you walked too far
+from the marked path. Now the sun is going down and your
+phone has no signal.
+
+The forest is beautiful, but people have not taken good
+care of it. There is trash on the ground, a campfire has
+been left burning and some animals are in trouble.
+
+YOUR GOAL: find your way to the RANGER STATION.
+On the way you can help the forest. The ranger will
+notice what you did.

@@ -1,0 +1,17 @@
+HOW TO PLAY
+Type a command and press Enter.
+
+  look       see where you are, what is here and where you can go
+  move       go to another place (choose it with a number)
+  collect    pick up the item in this place
+  eco        help nature in this place (gives eco points)
+  inventory  show your items and eco points
+  map        read the old map (you have to find it first)
+  save       save the game (continue later with the same name)
+  help       show these instructions
+  lopeta     quit the game
+
+TIPS
+- There are three ways to the ranger station. Each way needs
+  a different item: a lantern, a rope or an old map.
+- The more you help nature, the better your ending will be.
